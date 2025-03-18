@@ -1,6 +1,6 @@
 # Golden-Vault
 
-Golden Vault es una aplicación de finanzas personales para iOS que te ayuda a gestionar tus ingresos y gastos de manera eficiente. Con una interfaz intuitiva y herramientas avanzadas de seguimiento financiero, Golden Vault te permite tomar el control de tu economía.
+Golden Vault es una aplicación de finanzas personales para iOS que usa Swift y SwiftUI. Esta app te ayuda a gestionar tus ingresos y gastos de manera eficiente. Con una interfaz intuitiva y herramientas avanzadas de seguimiento financiero, Golden Vault te permite tomar el control de tu economía.
 
 ## Características
 
