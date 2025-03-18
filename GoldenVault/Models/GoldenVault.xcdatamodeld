@@ -1,0 +1,8 @@
+Entity "TransactionEntity" {
+    amount: Double
+    category: String
+    date: Date
+    descriptionText: String
+    id: UUID
+    type: String
+} 
