@@ -51,4 +51,3 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 ---
 
 ¡Gracias por usar Golden Vault! 🚀
-Hola
