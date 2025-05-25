@@ -20,7 +20,7 @@ Para ejecutar este proyecto, necesitas:
 
 1. Clona el repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tu-usuario/golden-vault.git
+   git clone https://github.com/isamelmourabet/golden-vault.git
    ```
 2. Abre el proyecto en Xcode.
 3. Compila y ejecuta en un simulador o dispositivo físico.
